@@ -1,7 +1,5 @@
-Document (testproduction-ww.md) - 2025-09-24 / 05:55:32
+Document (testproduction-ww.md) - 2025-09-24 / 06:07:42
 
-Step 1 type "ls" > *(AI explanation failed)*
-Step 2 type "clear" > คำสั่งนี้ล้างหน้าจอแสดงผล
-
-Step 3 type "ls" > *(AI explanation failed)*
-Step 4 type "cat main.go" > *(AI explanation failed)*
+Step 1 [\x02/home/maholan/docrecord\x01] type "\x02maholan@ubuntu22-tem-159:~/docrecord$ \x01" > *(AI explanation failed)*
+Step 2 [\x02/home/maholan/docrecord\x01] type "\x02maholan@ubuntu22-tem-159:~/docrecord$ \x01" > *(AI explanation failed)*
+Step 3 [\x02/home/maholan/docrecord\x01] type "\x02maholan@ubuntu22-tem-159:~/docrecord$ \x01" > *(AI explanation failed)*

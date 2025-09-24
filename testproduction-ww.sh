@@ -5,16 +5,12 @@
 set -e
 
 # Step 1: *(AI explanation failed)*
-ls
+\x02maholan@ubuntu22-tem-159:~/docrecord$ \x01
 
-# Step 2: คำสั่งนี้ล้างหน้าจอแสดงผล
-
-clear
+# Step 2: *(AI explanation failed)*
+\x02maholan@ubuntu22-tem-159:~/docrecord$ \x01
 
 # Step 3: *(AI explanation failed)*
-ls
-
-# Step 4: *(AI explanation failed)*
-cat main.go
+\x02maholan@ubuntu22-tem-159:~/docrecord$ \x01
 
 echo "✅ Automation script completed successfully."
