@@ -4,10 +4,10 @@
 
 set -e
 
-# Step 1: *(AI explanation failed)*
-ls 
+# Step 1: คำสั่ง ls ใช้แสดงรายการไฟล์และไดเร็กทอรีในระบบไฟล์
+ls
 
-# Step 2: *(AI explanation failed)*
+# Step 2: คำสั่ง pwd ใช้แสดงเส้นทางไดเร็กทอรีปัจจุบัน
 pwd
 
 echo "✅ Automation script completed successfully."
